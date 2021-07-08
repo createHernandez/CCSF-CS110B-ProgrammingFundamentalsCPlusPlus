@@ -1,0 +1,4 @@
+        Celsius     Fahrenheit
+             35           95.0
+             36           96.8
+             37           98.6
